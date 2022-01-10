@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>gift_.png</file>
+        <file>body_.png</file>
+        <file>snakes.ico</file>
+    </qresource>
+</RCC>
